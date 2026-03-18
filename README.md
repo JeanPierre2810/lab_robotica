@@ -1,4 +1,10 @@
-# Lab de Robótica
+# Lab de Robótica (EL MEJOR ENSAMBLADOR)
+
+## Integrantes
+- Andres Garcia
+- Andres Urriago
+- Jean Meza
+- Juan Hernandez
 
 ## Descripción
 Este repositorio contiene la organización, desarrollo y documentación de los diferentes bloques del Robot ensamblador.
@@ -17,11 +23,9 @@ Este repositorio contiene la organización, desarrollo y documentación de los d
   - Planos Mecanicos y Electricos
     
 - bloque_3
+  
+  - Control PID
+    
+- bloque_4
   - Simulacion Ros
   - Simulacion Gazebo
-
-## Integrantes
-- Andres Garcia
-- Andres Urriago
-- Jean Meza
-- Juan Hernandez
