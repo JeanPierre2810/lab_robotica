@@ -16,10 +16,8 @@ Este repositorio contiene la organización, desarrollo y documentación de los d
   - Planos
     
 - bloque_3
-  
-  -Simulacion Ros
-  
-  -Simulacion Gazebo
+  - Simulacion Ros
+  - Simulacion Gazebo
 
 ## Integrantes
 - Andres Garcia
