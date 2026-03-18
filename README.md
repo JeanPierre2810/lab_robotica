@@ -1,7 +1,7 @@
 # Lab de Robótica
 
 ## Descripción
-Este repositorio contiene la organización, desarrollo y documentación de los diferentes bloques del laboratorio de robótica.
+Este repositorio contiene la organización, desarrollo y documentación de los diferentes bloques del Robot ensamblador.
 
 ## Estructura
 - bloque_1
@@ -9,7 +9,7 @@ Este repositorio contiene la organización, desarrollo y documentación de los d
 - bloque_3
 
 ## Integrantes
+- Andres Garcia
+- Andres Urriago
 - Jean Meza
-
-## Observaciones
-Cada bloque tendrá su documentación, archivos y avances.
+- Juan Hernandez
