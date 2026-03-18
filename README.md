@@ -5,8 +5,20 @@ Este repositorio contiene la organización, desarrollo y documentación de los d
 
 ## Estructura
 - bloque_1
+  
+  - Tabla DH
+    
+  - Cinematica directa
+    
 - bloque_2
+  
+  - Boceto
+  - Planos
+    
 - bloque_3
+  
+  -Simulacion Ros
+  -Simulacion Gazebo
 
 ## Integrantes
 - Andres Garcia
