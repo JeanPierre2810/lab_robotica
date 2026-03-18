@@ -13,6 +13,9 @@ Este repositorio contiene la organización, desarrollo y documentación de los d
 - bloque_2
   
   - Boceto
+
+
+  
   - Planos
     
 - bloque_3
